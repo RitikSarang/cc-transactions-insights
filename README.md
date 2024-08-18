@@ -36,8 +36,12 @@ The project utilizes two primary datasets:
 ### Monthly Trends
 - **Seasonal Variations**: There are significant fluctuations in transaction volumes and fraud rates throughout the year. For instance, fraud rates tend to spike during holiday seasons, possibly due to increased transaction volumes and shopping activity.
 
-### Fraud by Profession: 
-Interestingly, professions such as Materials Engineers and Trading Standards Officers saw the highest counts of fraud cases, potentially reflecting the correlation between job roles and the likelihood of being targeted by fraud.
+### Fraud by Profession
+- Interestingly, professions such as Materials Engineers and Trading Standards Officers saw the highest counts of fraud cases, potentially reflecting the correlation between job roles and the likelihood of being targeted by fraud.
+
+### Transaction Amount Analysis
+- Millennials and Gen X are the highest spenders in transactions, with Millennials leading in total spend.
+Fraudulent transactions showed that Gen X and Millennials are significantly affected, with notable amounts recorded in fraud cases.
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
